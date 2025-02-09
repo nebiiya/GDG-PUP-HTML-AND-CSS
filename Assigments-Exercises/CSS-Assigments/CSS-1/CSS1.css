@@ -1,0 +1,17 @@
+
+.fb-text-style{
+     font-family: 'sans-serif', sans-serif;
+}
+
+h1 {
+    color: #1877F2;
+    text-align: center;
+}
+
+p{
+    font-size: 1.25rem;
+    font-style: italic;
+    font-weight: bold;
+    color: grey;
+    text-align: center;
+}
